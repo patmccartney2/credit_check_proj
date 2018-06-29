@@ -10,13 +10,13 @@ I need to improve on starting my projects earlier and spreading the work out mor
 
 ## Functionality
 
-Notes:
+Notes: it works!
 
-- [ ] Student completes through Iteration 3
+- [x] Student completes through Iteration 3
 
 ## Mechanics
 
-Notes:
+Notes: Demonstrating improving understanding of basic ruby principals.
 
 The student(s):
 
@@ -30,7 +30,7 @@ The student(s):
 
 Notes:
 
-The student(s):
+The student(s): see above
 
 - [3] adheres to the Single Responsibility and DRY principles
 - [4] creates Objects and Classes that appropriately encompass state and behavior
@@ -46,7 +46,7 @@ The student(s):
 
 Notes:
 
-The student(s):
+The student(s): works good.  must improve writing tests before attempting to write code.
 
 - [3] writes Minitest tests that describe the expected behavior of a program according to technical specifications
 - [4] names and orders tests so that a test file reads like documentation
