@@ -87,14 +87,14 @@ class CreditCheck
    end
 
    def terminal_interface
-     puts "Card to be validated?"
-     input_2 = gets.chomp
+     print "Welcome Human. Enter a credit card to be validated \n"
+     input_2 = "POINTLESS VARIABLE ASSIGNMENT!!!"
         while input_2 != "n"
      user_input = gets.chomp.to_i
      validation_output(user_input)
-     print "Another Card to be Verified? y/n \n"
+     print "Another card to be validated? y/n \n"
      input_2 = gets.chomp
     end
-    abort("You're Cards are either Invalid or Valid.  Now You know, and Knowing is half the battle.")
+    abort("You're cards are either invalid or valid.  Now you know, and knowing is half the battle.")
    end
  end
